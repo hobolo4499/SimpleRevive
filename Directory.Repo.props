@@ -1,0 +1,9 @@
+<Project>
+  <!-- Build settings for this machine (game folder, r2modman ModDev profile). Used by Linkoid.Repo.Plugin.Build. -->
+  <PropertyGroup>
+    <GameDirectory>C:\Program Files (x86)\Steam\steamapps\common\REPO\</GameDirectory>
+    <ProfileName>ModDev</ProfileName>
+    <BepInExDirectory>$(AppData)\r2modmanPlus-local\REPO\profiles\$(ProfileName)\BepInEx</BepInExDirectory>
+    <StartArguments>--doorstop-enable true --doorstop-target "$(BepInExDirectory)\core\BepInEx.Preloader.dll"</StartArguments>
+  </PropertyGroup>
+</Project>

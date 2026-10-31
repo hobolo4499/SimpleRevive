@@ -1,0 +1,7 @@
+{
+  "name": "SimpleRevive",
+  "version_number": "1.0.3",
+  "website_url": "",
+  "description": "Hold H while carrying a dead player's head to revive them. Costs 10% of your health (at least 10, which can kill you); they come back with what you paid.",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2305"]
+}

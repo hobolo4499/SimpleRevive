@@ -1,0 +1,6 @@
+bin/
+obj/
+plugins/
+*.zip
+*.user
+.vs/
