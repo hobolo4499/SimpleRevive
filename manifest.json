@@ -1,6 +1,6 @@
 {
   "name": "SimpleRevive",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/hobolo4499/SimpleRevive",
   "description": "Hold H while carrying a dead player's head to revive them. Costs 10% of your health (at least 10, which can kill you); they come back with what you paid.",
   "dependencies": ["BepInEx-BepInExPack-5.4.2305"]

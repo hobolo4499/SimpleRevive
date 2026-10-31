@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace SimpleRevive;
 
-[BepInPlugin("Eclips.SimpleRevive", "SimpleRevive", "1.0.3")]
+[BepInPlugin("SolEclips.SimpleRevive", "SimpleRevive", "1.0.4")]
 public class SimpleRevive : BaseUnityPlugin
 {
     internal static SimpleRevive Instance { get; private set; } = null!;

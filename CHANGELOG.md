@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.4
+- Changed: the mod now uses the SolEclips name everywhere, matching its Thunderstore page.
+  Your settings go back to their defaults once, because the settings file is now
+  `SolEclips.SimpleRevive.cfg`.
+- Added: a Website link on the Thunderstore page to the source code on GitHub, where you
+  can also report bugs.
+
 ## 1.0.3
 - Changed: reviving takes 2 seconds instead of 3.
 - Changed: reviving costs 10% of your health (at least 10, so with 10 or less it kills you),
