@@ -1,0 +1,10 @@
+# Used by package.ps1 -Publish (tcli). Name and version come from manifest.json.
+[config]
+schemaVersion = "0.0.1"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = ["repo"]
+
+[publish.categories]
+repo = ["ai-generated", "quality-of-life"]
