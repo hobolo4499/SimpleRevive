@@ -1,4 +1,8 @@
-# Used by package.ps1 -Publish (tcli). Name and version come from manifest.json.
+# Used by package.ps1 -Publish (tcli). The version comes from manifest.json in the zip.
+[package]
+namespace = "SolEclips"
+name = "SimpleRevive"
+
 [config]
 schemaVersion = "0.0.1"
 
